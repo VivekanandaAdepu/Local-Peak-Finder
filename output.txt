@@ -1,0 +1,4 @@
+95 is a local peak at position:5,5
+95 is a local peak at position:8,5
+94 is a local peak at position:10,4
+100 is a local peak at position:10,10
